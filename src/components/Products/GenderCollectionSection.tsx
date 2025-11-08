@@ -1,4 +1,3 @@
-import React from "react";
 import menCollectionImage from "../../assets/mens-collection.webp";
 import womenCollectionImage from "../../assets/womens-collection.webp";
 import { Link } from "react-router-dom";
